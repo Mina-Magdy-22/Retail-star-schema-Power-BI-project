@@ -11,7 +11,7 @@ It demonstrates end-to-end data analytics using **Power Query**, **DAX**, and **
 
 | Property | Details |
 |---|---|
-| **Source** | [Kaggle - Retail Store Star Schema Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/shrinivasv/retail-store-star-schema-dataset)) |
+| **Source** | [Kaggle - Retail Store Star Schema Dataset](https://www.kaggle.com/datasets/shrinivasv/retail-store-star-schema-dataset) |
 | **Fact Table** | `fact_sales_normalized.csv` - 1M records |
 | **Dimension Tables** | 6 tables (customers, products, dates, stores, salespersons, campaigns) |
 | **Time Period** | January 2024 - December 2024 |
