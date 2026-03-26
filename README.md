@@ -152,15 +152,5 @@ All relationships: **Many-to-One (*:1)** | **Single cross-filter direction**
 - Power BI Desktop
 - Power Query (M Language)
 - DAX
-- Python (Pillow) for custom dashboard backgrounds
 
----
 
-## 📸 Screenshots
-
-| Page | Preview |
-|---|---|
-| Overview | ![Overview](screenshots/overview.png) |
-| Revenue & Performance | ![Revenue](screenshots/revenue_performance.png) |
-| Customer Behavior | ![Customer](screenshots/customer_behavior.png) |
-| Model View | ![Model](screenshots/model_view.png) |
